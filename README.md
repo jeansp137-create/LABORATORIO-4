@@ -4,6 +4,7 @@
 * **Asignatura:** Ingeniería de Software
 * **Metodología:** Modelado de Dominio y Requerimientos de Stephen R. Schach
 * **Proyecto:** Sistema de Información del Cajero Automático
+* **Autor:** Julián David Fernández Ruiz
 
 ## Descripción del Proyecto
 Este repositorio contiene la especificación formal de requerimientos y el modelo de negocio para un **Cajero Automático (ATM)**. El modelado define la interacción entre los actores y el sistema mediante la estructuración de casos de uso y diagramas UML.
